@@ -1,7 +1,7 @@
 This Repositories contain all the codes related to HUFF_LLM. </br>
 
 
-![image](https://github.com/user-attachments/assets/e154b3a3-3403-419a-975b-cf03cb25e3ce)
+![WhatsApp Image 2025-04-11 at 02 14 38_9cf2cd6e](https://github.com/user-attachments/assets/823b6ae9-9162-4e27-a92e-a803ddce4948)
 
 
 Waveform image. </br></br>
